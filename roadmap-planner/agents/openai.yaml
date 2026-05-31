@@ -1,0 +1,4 @@
+interface:
+  display_name: "Roadmap Planner"
+  short_description: "制定产品规划、机会排序、版本节奏和需求交接"
+  default_prompt: "Use $roadmap-planner for product strategy, opportunity mapping, roadmap creation, prioritization, or roadmap review. Match the user's language by default; for Chinese requests, write Chinese headings and content. Include goals, opportunity pool, prioritization, roadmap stages, milestones, dependencies, risks, tradeoffs, and Requirement Analyzer handoff items."

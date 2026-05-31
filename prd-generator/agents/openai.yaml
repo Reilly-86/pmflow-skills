@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD Generator"
+  short_description: "生成、优化、评审可执行的产品需求文档"
+  default_prompt: "Use $prd-generator to turn this product idea or feature brief into a structured Markdown PRD. Match the user's language by default; for Chinese requests, write Chinese headings and content. Ask only for missing information that materially changes scope; otherwise draft with labeled assumptions, testable requirements, acceptance criteria, risks, and open questions."

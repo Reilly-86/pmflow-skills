@@ -1,0 +1,4 @@
+interface:
+  display_name: "Requirement Analyzer"
+  short_description: "澄清原始需求，梳理目标、范围、依赖、数据和风险"
+  default_prompt: "Use $requirement-analyzer to clarify this raw product requirement. Match the user's language by default; for Chinese requests, write Chinese headings and content. Analyze goals, users, scenarios, scope, functional dependencies, data dependencies, states, permissions, metrics, launch impact, risks, and open questions, then produce a PRD handoff brief."

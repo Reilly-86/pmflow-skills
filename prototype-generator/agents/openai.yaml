@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prototype Generator"
+  short_description: "基于 PRD 生成可交互 HTML 原型和需求标注"
+  default_prompt: "Use $prototype-generator to turn this PRD or structured requirement into an interactive HTML prototype with PRD-linked annotations. Match the user's language by default; for Chinese requests, write Chinese headings, labels, and visible UI text. Include page navigation, key interactions, state switching, module-to-requirement mapping, searchable annotations, assumptions, and missing information."
